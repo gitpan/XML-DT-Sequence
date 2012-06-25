@@ -1,0 +1,15 @@
+Changes
+lib/XML/DT/Sequence.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+t/sample.xml
+t/sample2.xml
+t/01-more.t
+t/longsample.xml
+t/03-long.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

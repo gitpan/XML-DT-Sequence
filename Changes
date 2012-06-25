@@ -1,0 +1,7 @@
+Revision history for XML-DT-Sequence
+
+0.01    Mon Jun 25 20:03:16 WEST 2012
+        First version, released on an unsuspecting world.
+        - Supports -tag, -head, -body and -foot
+        - Supports breaking the process
+
