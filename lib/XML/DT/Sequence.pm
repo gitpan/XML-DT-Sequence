@@ -1,5 +1,5 @@
 package XML::DT::Sequence;
-
+$XML::DT::Sequence::VERSION = '0.02';
 use XML::DT;
 
 use 5.006;
@@ -14,15 +14,6 @@ our @EXPORT = qw($u $c %v $q &father &gfather &ggfather &root);
 =head1 NAME
 
 XML::DT::Sequence - Down Translator (XML::DT) for sequence XMLs
-
-=head1 VERSION
-
-Version 0.01
-
-=cut
-
-our $VERSION = '0.01';
-
 
 =head1 SYNOPSIS
 
